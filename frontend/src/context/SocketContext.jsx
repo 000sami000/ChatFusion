@@ -13,7 +13,7 @@ export const SocketContextProvider=({children})=>{
    const {authUser}=useAuthContext();
    useEffect(()=>{
 if(authUser){
-    const socket=io("https://chatfusion-5ptz.onrender.com",{
+    const socket=io("https://chatfusion-mt8f.onrender.com",{
         query:{
             userId:authUser._id,
         },

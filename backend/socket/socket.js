@@ -8,7 +8,7 @@ dotenv.config();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin:"https://chatfusion-5ptz.onrender.com",
+    origin:"https://chatfusion-mt8f.onrender.com",
     methods: ["GET", "POST"],
   },
 });
