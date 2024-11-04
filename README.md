@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/31e15147-6496-470d-804b-159d7615b097
 # ChatFusion
 
 ChatFusion is a real-time chat application enabling seamless communication between authorized users. Users can search for others, view online status, and engage in live chats, all in a secure and interactive environment powered by Socket.io.
