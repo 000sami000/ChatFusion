@@ -9,8 +9,8 @@ ChatFusion is a real-time chat application enabling seamless communication betwe
 ![Screenshot (18)](https://github.com/user-attachments/assets/40f80256-0385-43f7-bcf5-12ad87adc691)
 
 #Video
-https://github.com/user-attachments/assets/9b41f325-6165-44bf-8cf4-ec49082eefab
 
+https://github.com/user-attachments/assets/31e15147-6496-470d-804b-159d7615b097
 
 ## Features
 
